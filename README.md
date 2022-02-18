@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tiffanyoham
-- 👀 I’m interested in learning to code, reading, and music.
-- 🌱 I’m currently learning HTML, CSS, and JavaScript.
+- 👀 I’m interested in SEO and Coding.
+- 🌱 I’m currently learning JavaScript.
 - 💞️ I’m looking to collaborate on fun and cool projects!
 - 📫 You can reach me at tiffanyonealham@gmail.com!
 
